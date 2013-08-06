@@ -1,0 +1,15 @@
+{ 
+	"name": "chadanuk/php_csv_browser",
+	"autoload": {
+		"classmap": [
+			"src/CSV.php"
+			
+		],
+		"psr-0": {
+			"Chadanuk": "src/"
+		}
+    "require": { 
+    
+    },
+	"minimum-stability": "dev"
+}
