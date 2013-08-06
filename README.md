@@ -3,6 +3,7 @@ php_csv_browser
 
 Get specific information from any CSV
 
+Retrieves a row of data based on a field/value combo.
 
 After your file is upload initialise the CSV browser by parsing the file name to the constructor.
 
